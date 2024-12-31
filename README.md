@@ -26,7 +26,7 @@ Because of this, there were lots of different logiverse sites. Here are some of 
 - [Logon](https://evolved.systems/logon) by [Rafał Hirsz](https://evolved.systems)
 - [Lodge](https://lodge.maemoon.me) by [Mae Moon](http://maemoon.me)
 
-There were also various different clients. All of the sites above had their own client, and there's also:
+There were also various different clients. All of the sites above had their own client, and there was also:
 
 - [Logarithm](https://tristie.org/logarithm/) by [Tristie](https://tristie.org)
 - [Loft](https://github.com/cute-catgirl/Loft) by [Mae Moon](http://maemoon.me)
@@ -39,6 +39,6 @@ Some people had created their own [command-line client](https://xoxo.zone/@annik
 
 Join us! We were exploring and experimenting with how far we could push this thing :)
 
-*You ccould see statistics about the logiverse on [Mae Moon](http://maemoon.me)'s [stats page](https://lodge.maemoon.me/stats).*
+*You could see statistics about the logiverse on [Mae Moon](http://maemoon.me)'s [stats page](https://lodge.maemoon.me/stats).*
 
 <br>
