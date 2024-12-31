@@ -25,6 +25,7 @@ Because of this, there were lots of different logiverse sites. Here are some of 
 - [Login Redux](https://login.rossilaz.xyz) by [Rosy](https://mastodon.gamedev.place/@Mittzy)
 - [Logon](https://evolved.systems/logon) by [Rafał Hirsz](https://evolved.systems)
 - [Lodge](https://lodge.maemoon.me) by [Mae Moon](http://maemoon.me)
+- [LogiVert](https://logivert.pages.dev) by [Elouan Grimm](https://elouan.xyz/)
 
 There were also various different clients. All of the sites above had their own client, and there was also:
 
