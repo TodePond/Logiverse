@@ -25,6 +25,7 @@ Because of this, there are lots of different logiverse sites. Here are some of t
 - [Login Redux](https://login.rossilaz.xyz) by [Rosy](https://mastodon.gamedev.place/@Mittzy)
 - [Logon](https://evolved.systems/logon) by [Rafał Hirsz](https://evolved.systems)
 - [Lodge](https://lodge.maemoon.me) by [Mae Moon](http://maemoon.me)
+- [Blogin](https://blag.slonk.ing/posts/blogin) by [blag](https://blag.slonk.ing)
 
 There are also various different clients. All of the sites above have their own client, and there's also:
 
